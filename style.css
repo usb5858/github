@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+}
+.container {
+    height: 100vh;
+} 
+.borderBox {
+    width: 417px;
+    height: 70px;
+    margin-left: 511px;
+    margin-top: 422px;
+    background: linear-gradient(rgb(231, 130, 197),rgb(221, 55, 174));
+    border-radius: 12px 12px 12px 12px;
+}
+.githubPage {
+    width: 335px;
+    height: 40px;
+    margin-left: 59px;
+    margin-top: 492px;
+    padding: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    color: #FFFFFF;
+    
+}
